@@ -6,6 +6,8 @@ In the below blog post we will show you how to achieve both a low cost and high 
 
 More details and instructions on this solution can be found on the AWS Gametech blog here: https://aws.amazon.com/blogs/gametech//hosting-your-own-dedicated-valheim-server-in-the-cloud/
 
+![arch](./arch.png)
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
